@@ -1,0 +1,3 @@
+Name: Ivan Georgiev
+Faculty number: 71200
+Age: 43

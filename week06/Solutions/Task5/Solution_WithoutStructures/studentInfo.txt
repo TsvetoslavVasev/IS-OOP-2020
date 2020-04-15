@@ -1,0 +1,3 @@
+Name: Georgi Ivanov
+Faculty number: 71000
+Age: 34
